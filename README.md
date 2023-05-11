@@ -36,8 +36,18 @@ Here are a few of my favorite projects:
 - Gold Miner([Link to Project](https://github.com/10zhu/GoldMiner))
 
 [![10zhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=10zhu&show_icons=true&theme=radical)]()
+<!-- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=10zhu&layout=compact)]() -->
+## Languages & Tools:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=10zhu&layout=compact)]()
+![Java](https://img.shields.io/badge/Java-20%25-orange)
+![Python](https://img.shields.io/badge/Python-25%25-blue)
+![CSS](https://img.shields.io/badge/CSS-10%25-green)
+![JavaScript](https://img.shields.io/badge/JavaScript-20%25-yellow)
+![Dart](https://img.shields.io/badge/Dart-5%25-blueviolet)
+![HTML](https://img.shields.io/badge/HTML-10%25-red)
+![React](https://img.shields.io/badge/React-5%25-blue)
+![Git](https://img.shields.io/badge/Git-5%25-orange)
 
 
 ## Get in Touch
