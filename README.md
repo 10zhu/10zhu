@@ -35,9 +35,9 @@ Here are a few of my favorite projects:
 - NB_Invest([Link to Project](https://github.com/10zhu/nb_invest))
 - Gold Miner([Link to Project](https://github.com/10zhu/GoldMiner))
 
-[![10zhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=10zhu&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![10zhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=10zhu&show_icons=true&theme=radical)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=10zhu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=10zhu&layout=compact)]
 
 
 ## Get in Touch
