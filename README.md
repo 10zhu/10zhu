@@ -40,7 +40,7 @@ Here are a few of my favorite projects:
 
 ## Get in Touch
 
-- LinkedIn: [[Your LinkedIn Profile Link]](https://www.linkedin.com/in/yiling-zhu-7a0b34216/?locale=en_US)
+- LinkedIn: [Yiling Zhu](https://www.linkedin.com/in/yiling-zhu-7a0b34216/?locale=en_US)
 - Email: yiling10@seas.upenn.edu
 
 Thanks for visiting my GitHub homepage! I look forward to connecting with you. 
