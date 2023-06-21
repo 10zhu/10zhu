@@ -22,7 +22,7 @@ My name is Yiling Zhu, and I am a current graduate student at UPenn MCIT. I am p
 ## About Me
 
 - 🔭 I’m currently a student at Penn MCIT Class of 2023 and will graduate in May, 2024
-- 👨‍💻 I'm currently a Section Leader at Code in Place
+- 👨‍💻 I was a Section Leader at Code in Place 2023
 - 🏆 Hackathon - Best Technical Implementation Award at UPenn MCIT 59x Hackathon 2023
 - 💬 Ask me about anything you want to know
 - 📫 How to reach me: yiling10@seas.upenn.edu
